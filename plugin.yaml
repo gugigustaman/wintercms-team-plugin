@@ -1,0 +1,7 @@
+plugin:
+    name: 'kingu.team::lang.plugin.name'
+    description: 'kingu.team::lang.plugin.description'
+    author: Kingu
+    icon: wn-icon-users
+    homepage: 'https://github.com/gugigustaman/wintercms-team-plugin'
+    replaces: {  }

@@ -1,0 +1,26 @@
+{
+    "name": "kingu/wintercms-team-plugin",
+    "type": "winter-plugin",
+    "description": "Team plugin for Winter CMS",
+    "homepage": "https://github.com/gugigustaman/wintercms-team-plugin",
+    "keywords": ["winter", "wintercms", "team"],
+    "authors": [
+        {
+            "name": "Gugi Gustaman",
+            "email": "gugi.gustaman.15@gmail.com",
+            "role": "Original Author"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "composer/installers": "~1.0",
+        "kingu/wintercms-main-plugin": ">=0.0.1"
+    },
+    "support": {
+        "issues": "https://github.com/gugigustaman/wintercms-team-plugin/issues",
+        "source": "https://github.com/gugigustaman/wintercms-team-plugin"
+    },
+    "extra": {
+        "installer-name": "team"
+    }
+}
